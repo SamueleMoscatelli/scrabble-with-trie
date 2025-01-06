@@ -1,0 +1,8 @@
+# Ignore Xcode related files
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj
+# Ignore derived data and build files
+derivedData/
+build/
+
